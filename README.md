@@ -1,7 +1,18 @@
 vagrant-mysql55
 ===============
 
-Vagrant for MySQL 5.5
+A vagrant configuration for setting up Percona Server 5.5.
 
-Adds percona repository and installs Percona Server 5.5 (latest)
+
+INSTALLATION
+============
+
+1) Clone the repo
+2) vagrant up
+
+REQUIRES
+========
+Vagrant
+Virtualbox
+Git
 
